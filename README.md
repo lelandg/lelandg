@@ -1,7 +1,7 @@
 I've been a developer since 1978, when I learned BASIC on my father's Tandy TRS-80. I started coding a lot when I bought my Commodore-64 in the early 80s. I have one of the first 4000 off the production line! I know because of the ROM memory location you can PEEK. I put it on lay-away the year it came out. Saved my pennies and took it home almost a year after it was released.
 - I have a lot of open-source projects
 - You can read about my favorite ones in my repositories tab, or at [LelandGreen.com](https://lelandgreen.com)
-- I formed [Chameleon Labs, LLC](https://chameleonlabs.ai) with a friend, and we're working on several advanced AI projects.
+- In October, 2025, we formed [Chameleon Labs, LLC](https://chameleonlabs.ai). We're developing advanced AI projects.
 <!--
 **lelandg/lelandg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
