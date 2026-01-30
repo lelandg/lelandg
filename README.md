@@ -1,18 +1,18 @@
-I've been a developer since 1978, when I learned BASIC on my father's Tandy TRS-80. I started coding a lot when I bought my Commodore-64 in the early 80s. I have one of the first 4000 off the production line! I know because of the ROM memory location you can PEEK. I put it on lay-away the year it came out. Saved my pennies and took it home almost a year after it was released.
-- I have a lot of open-source projects
-- You can read about my favorite ones in my repositories tab, or at [LelandGreen.com](https://lelandgreen.com)
-- In October, 2025, we formed [Chameleon Labs, LLC](https://chameleonlabs.ai). We're developing advanced AI projects.
-<!--
-**lelandg/lelandg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, I'm Leland 👋
 
-Here are some ideas to get you started:
+I've been coding since 1978—learned BASIC on my father's TRS-80, then dove deep on a Commodore 64 (one of the first 4000 off the line). Majored in art, minored in music, became an Advanced Software Engineer by teaching myself.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently Working On
+
+🦎 **[Chameleon Labs](https://chameleonlabs.ai)** — Co-founded in Oct 2025. Building AI-powered web applications.
+
+🖼️ **[ImageAI](https://github.com/lelandg/ImageAI)** — Python image/video generator supporting multiple LLM providers (OpenAI, Anthropic, Gemini, Stability AI, local models via Ollama). Built entirely with Claude Code CLI. Great example of practical LLM integration.
+
+### Other Projects
+- **[Raspberry-Pi-Security-Camera](https://github.com/lelandg/Raspberry-Pi-Security-Camera)** — Motion detection + email alerts + Linphone server
+- **[PromptAlchemy](https://github.com/lelandg/PromptAlchemy)** — Cross-platform prompt enhancement tool (GUI + CLI)
+- **[ClaudeAgents](https://github.com/lelandg/ClaudeAgents)** — Custom agents for Claude Code
+
+### Connect
+- 🌐 [LelandGreen.com](https://lelandgreen.com)
+- 💬 [Chameleon Labs Discord](https://discord.gg/chameleonlabs)
