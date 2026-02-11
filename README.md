@@ -1,4 +1,4 @@
-## Hi, I'm Leland 👋
+## Howdy, I'm Leland. 
 
 I've been coding since 1978—learned BASIC on my father's TRS-80, then dove deep on a Commodore 64 (one of the first 4000 off the line). Majored in art, minored in music, became an Advanced Software Engineer by teaching myself.
 
