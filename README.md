@@ -4,14 +4,14 @@ I've been coding since 1978—learned BASIC on my father's TRS-80, then dove dee
 
 ### Currently Working On
 
-🦎 **[Chameleon Labs](https://chameleonlabs.ai)** — Co-founded in Oct 2025. Building AI-powered web applications.
+🦎 **[Chameleon Labs](https://chameleonlabs.ai)** — Co-founded in Oct 2025. Building AI-powered web applications, back-ends and open-source (via this profile).
 
 🖼️ **[ImageAI](https://github.com/lelandg/ImageAI)** — Python image/video generator supporting multiple LLM providers (OpenAI, Anthropic, Gemini, Stability AI, local models via Ollama). Built entirely with Claude Code CLI. Great example of practical LLM integration.
 
 ### Other Projects
-- **[Raspberry-Pi-Security-Camera](https://github.com/lelandg/Raspberry-Pi-Security-Camera)** — Motion detection + email alerts + Linphone server
-- **[PromptAlchemy](https://github.com/lelandg/PromptAlchemy)** — Cross-platform prompt enhancement tool (GUI + CLI)
-- **[.claude_code](https://github.com/lelandg/.claude_code)** — My setup for Claude Code. Includes my agents, global CLAUDE.md, custom skills to merge into your config, and more
+- 🎦 **[Raspberry-Pi-Security-Camera](https://github.com/lelandg/Raspberry-Pi-Security-Camera)** — Motion detection + email alerts + Linphone server
+- 🤖 **[PromptAlchemy](https://github.com/lelandg/PromptAlchemy)** — Cross-platform prompt enhancement tool (GUI + CLI)
+- 🤖 **[.claude_code](https://github.com/lelandg/.claude_code)** — My setup for Claude Code. Includes my agents, global CLAUDE.md, custom skills to merge into your config, and more
 
 ### Connect
 - 🌐 [LelandGreen.com](https://lelandgreen.com)
