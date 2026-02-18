@@ -11,7 +11,7 @@ I've been coding since 1978—learned BASIC on my father's TRS-80, then dove dee
 ### Other Projects
 - **[Raspberry-Pi-Security-Camera](https://github.com/lelandg/Raspberry-Pi-Security-Camera)** — Motion detection + email alerts + Linphone server
 - **[PromptAlchemy](https://github.com/lelandg/PromptAlchemy)** — Cross-platform prompt enhancement tool (GUI + CLI)
-- **[ClaudeAgents](https://github.com/lelandg/ClaudeAgents)** — Custom agents for Claude Code
+- **[.claude_code](https://github.com/lelandg/.claude_code)** — My setup for Claude Code. Includes my agents, global CLAUDE.md, custom skills to merge into your config, and more
 
 ### Connect
 - 🌐 [LelandGreen.com](https://lelandgreen.com)
