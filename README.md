@@ -4,7 +4,7 @@ I've been coding since 1978—learned BASIC on my father's TRS-80, then dove dee
 
 ### Currently Working On
 
-🦎 **[Chameleon Labs](https://chameleonlabs.ai)** — Co-founded in Oct 2025. Building AI-powered web applications, back-ends and open-source (via this profile).
+🦎 **[Chameleon Labs](https://chameleonlabs.ai)** — Co-founded in Oct 2025. Building AI-powered web applications, back-ends and open-source (via this profile and the [Chameleon Labs organization profile](https://github.com/Chameleon-Labs-LLC)).
 
 🖼️ **[ImageAI](https://github.com/lelandg/ImageAI)** — Python image/video generator supporting multiple LLM providers (OpenAI, Anthropic, Gemini, Stability AI, local models via Ollama). Built entirely with Claude Code CLI. Great example of practical LLM integration.
 
@@ -15,4 +15,5 @@ I've been coding since 1978—learned BASIC on my father's TRS-80, then dove dee
 
 ### Connect
 - 🌐 [LelandGreen.com](https://lelandgreen.com)
+- 🏢 [Chameleon Labs GitHub](https://github.com/Chameleon-Labs-LLC)
 - 💬 [Chameleon Labs Discord](https://discord.gg/chameleonlabs)
