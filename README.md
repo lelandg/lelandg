@@ -13,14 +13,13 @@ To update
 /plugin marketplace update lelandg/.claude_code
 ```
 ### 🦎 Chameleon Labs Plugin Markeplace
-Lots of goodies in this one
+Lots of goodies for developers
 ```
 /plugin marketplace add Chameleon-Labs-LLC/plugins
 ```
+Also available in plugins, included with our open-source repos:. [Chameleon Labs organization profile](https://github.com/Chameleon-Labs-LLC)).
 
 🌐 **[Chameleon Labs](https://chameleonlabs.ai)** — Co-founded in Oct 2025. Building AI-powered web applications, back-ends.
-
-Open-source repos here: [Chameleon Labs organization profile](https://github.com/Chameleon-Labs-LLC)).
 
 
 🖼️ **[ImageAI](https://github.com/lelandg/ImageAI)** — Python image/video generator supporting multiple LLM providers (OpenAI, Anthropic, Gemini, Stability AI, local models via Ollama). Built entirely with Claude Code CLI. Great example of practical LLM integration.
