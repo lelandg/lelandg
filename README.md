@@ -12,13 +12,13 @@ To update
 ```
 /plugin marketplace update lelandg/.claude_code
 ```
-### Chameleon Labs Plugin Markeplace
+### 🦎 Chameleon Labs Plugin Markeplace
 Lots of goodies in this one
 ```
 /plugin marketplace add Chameleon-Labs-LLC/plugins
 ```
 
-🦎 **[Chameleon Labs](https://chameleonlabs.ai)** — Co-founded in Oct 2025. Building AI-powered web applications, back-ends.
+🌐 **[Chameleon Labs](https://chameleonlabs.ai)** — Co-founded in Oct 2025. Building AI-powered web applications, back-ends.
 
 Open-source repos here: [Chameleon Labs organization profile](https://github.com/Chameleon-Labs-LLC)).
 
