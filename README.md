@@ -17,7 +17,7 @@ Lots of goodies for developers
 ```
 /plugin marketplace add Chameleon-Labs-LLC/plugins
 ```
-Also available in plugins, included with our open-source repos:. [Chameleon Labs organization profile](https://github.com/Chameleon-Labs-LLC)).
+Also available in plugins, included with our open-source repos:. [Chameleon Labs organization profile](https://github.com/Chameleon-Labs-LLC).
 
 🌐 **[Chameleon Labs](https://chameleonlabs.ai)** — Co-founded in Oct 2025. Building AI-powered web applications, back-ends.
 
