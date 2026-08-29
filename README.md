@@ -1,8 +1,9 @@
-## Thanks for checking my profile.
+## Hello, I'm Leland Green
 
 I've been coding since 1978—learned BASIC on my father's TRS-80, then dove deep on a Commodore 64 (one of the first 4000 off the line). Majored in art, minored in music, became an Advanced Software Engineer by teaching myself.
 
-### Currently Working On
+### Tools for your agents
+Claude Code is my primary development tool. But you can point any agent at the repos below to use the skills.  
 - 🤖 **[.claude_code](https://github.com/lelandg/.claude_code)** — My setup for Claude Code. Includes my agents, global CLAUDE.md, custom skills to merge into your config, and more. Now in my plugin markeplace
 ```
 /plugin marketplace add lelandg/.claude_code
@@ -21,8 +22,11 @@ Also available in plugins, included with our open-source repos: [Chameleon Labs 
 
 🌐 **[Chameleon Labs](https://chameleonlabs.ai)** — Co-founded in Oct 2025. Building AI-powered web applications, back-ends.
 
+## ImageAI
+![Created with ImageAI](A_full_color_pen_and_ink_drawing_by_Rembrandt_of_a_2_resting_20251206_163054_1.jpg)
+🖼️ **[ImageAI](https://github.com/lelandg/ImageAI)** — Python image and video generator that supports multiple LLM providers (OpenAI, Anthropic, Gemini, Stability AI, local models via Ollama). Built entirely with Claude Code CLI. Great example of practical LLM and media integration.
 
-🖼️ **[ImageAI](https://github.com/lelandg/ImageAI)** — Python image/video generator supporting multiple LLM providers (OpenAI, Anthropic, Gemini, Stability AI, local models via Ollama). Built entirely with Claude Code CLI. Great example of practical LLM integration.
+**What features would you like?**
 
 ### Other Projects
 - 🎦 **[Raspberry-Pi-Security-Camera](https://github.com/lelandg/Raspberry-Pi-Security-Camera)** — Motion detection + email alerts + Linphone server
